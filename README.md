@@ -1,6 +1,5 @@
 Gooth
-======
-## Introducing Gooth
+===
 Gooth is a simple and addictive game for iOS and Android
 
 ## Download Gooth
